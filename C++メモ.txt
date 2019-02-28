@@ -6,3 +6,5 @@ std::any(C++17)
 https://wandbox.org/permlink/rDnf6HUYz3Mvg6HS
 文字列分割(std::stringを継承)
 https://wandbox.org/permlink/z1C4Kd3xeS2C9meN
+メタ関数
+https://wandbox.org/permlink/SNCmg17qoMsexLSd
