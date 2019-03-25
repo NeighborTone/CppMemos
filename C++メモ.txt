@@ -8,3 +8,5 @@ https://wandbox.org/permlink/rDnf6HUYz3Mvg6HS
 https://wandbox.org/permlink/z1C4Kd3xeS2C9meN
 メタ関数
 https://wandbox.org/permlink/SNCmg17qoMsexLSd
+テンプレート可変引数
+https://wandbox.org/permlink/nzsVN26OqjMevtCk
