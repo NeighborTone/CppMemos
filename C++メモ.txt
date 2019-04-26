@@ -10,3 +10,5 @@ https://wandbox.org/permlink/z1C4Kd3xeS2C9meN
 https://wandbox.org/permlink/SNCmg17qoMsexLSd
 テンプレート可変引数
 https://wandbox.org/permlink/nzsVN26OqjMevtCk
+クロージャ
+https://wandbox.org/permlink/qXoAZXI6HOmjHfKd
