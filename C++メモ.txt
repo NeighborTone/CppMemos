@@ -13,4 +13,4 @@ https://wandbox.org/permlink/nzsVN26OqjMevtCk
 クロージャ
 https://wandbox.org/permlink/qXoAZXI6HOmjHfKd
 RTTI
-https://wandbox.org/permlink/bqrzduihkFFqoZ0R
+https://wandbox.org/permlink/K0zy3OjDhWxFkUIW
